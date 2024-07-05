@@ -1,51 +1,26 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Nóticia sobre Furacão Beryl AI Vídeo
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Vídeo de 1 minuto sobre o furacão Beryl.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- [ElevenLabs](https://elevenlabs.io/)
+- [HeyGen](https://app.heygen.com)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Selecionei o texto de uma notícia no site da [CNN](https://www.cnnbrasil.com.br/), fiz a conversão do texto para aúdio usando a ferramenta HeyGen e após isso criei o vídeo usando a ferramenta ElevenLabs.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O vídeo final sobre o furacão Beryl foi criado com sucesso usando as ferramentas mencionadas. Aqui estão os principais aspectos do resultado alcançado:
 
-### Exemplos e Insigths
+- Qualidade Visual e Estética: Utilizando a plataforma ElevenLabs, conseguiu-se criar um vídeo esteticamente agradável com transições suaves e elementos visuais que complementam o conteúdo sobre o furacão Beryl.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- Qualidade do Áudio: A conversão de texto para áudio feita através do HeyGen resultou em uma voz natural e clara, melhorando a acessibilidade do vídeo e mantendo o interesse do espectador.
 
-## Links Interessantes
+- Integração de Conteúdo: A escolha do texto da CNN Brasil proporcionou um conteúdo informativo e relevante, transformado de texto para mídia audiovisual de maneira eficaz.
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+Esses resultados demonstram como a utilização de IA pode não apenas automatizar processos, mas também elevar a qualidade estética e informativa de produções audiovisuais de curta duração.
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+[Link do video](My%20first%20Avatar%20Video.mp4)
+
